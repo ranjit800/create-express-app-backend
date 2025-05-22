@@ -1,0 +1,17 @@
+{
+  "name": "create-express-app-backend",
+  "version": "1.0.1",
+  "description": "CLI to generate a production-ready Express backend",
+  "main": "index.js",
+  "bin": {
+    "create-express-app": "./index.js"
+  },
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["express", "cli", "backend", "starter"],
+  "author": "Ranjit Jana",
+  "license": "ISC"
+  
+}
