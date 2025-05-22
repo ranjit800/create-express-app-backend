@@ -5,10 +5,11 @@ A simple, production-ready CLI tool to scaffold a complete **Express.js backend*
 ## 📦 Installation
 
 ```bash
-npx create-express-app-backend my-backend
-cd my-backend
-npm install
-npm start
+
+1 npx create-express-app-backend my-backend
+2 cd my-backend
+3 npm install
+4 npm start
 
 
 
@@ -67,48 +68,52 @@ my-backend-app/
 
 
 ⚙️ Technologies Used
-Node.js
+1 Node.js
 
-Express.js
+2 Express.js
 
-Mongoose
+3 Mongoose
 
-EJS
+4 EJS
 
-dotenv
+5 dotenv
 
 
 
 🔧 How It Works
-When you run:
-
+---------------------
+When you run:--
 bash
 Copy code
 npx create-express-app-backend my-backend-app
 
-1 This CLI will:
+This CLI will:
 
-2 Copy the project template to my-backend-app/
+1 Copy the project template to my-backend-app/
 
-3 Initialize it with its own package.json
+2 Initialize it with its own package.json
 
-4 Add basic files like .gitignore, .env, and starter code
+3 Add basic files like .gitignore, .env, and starter code
 
-5 Set you up for success with a clean structure.
+4 Set you up for success with a clean structure.
 
 
 
 
 🤝 Contributing
-Contributions, ideas, and improvements are welcome!
+-----------------------------
+@ Contributions, ideas, and improvements are  
+welcome!
 
-Fork the repo
+1 Fork the repo
 
-Make your changes
+2 Make your changes
 
-Submit a pull request
+3 Submit a pull request
 
 
 
 📄 License
 NSEC © rj-web-dev
+
+Git :- https://github.com/ranjit800/create-express-app-backend
